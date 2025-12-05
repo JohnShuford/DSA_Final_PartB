@@ -1,0 +1,17 @@
+﻿Node_From,Node_To,Location_From,Location_To,Travel_Time_Minutes,Risk_Level,Capacity_Limit,Availability
+A,B,Station A,Station B,14,9,2,1
+A,C,Station A,Station C,13,5,2,1
+B,C,Station B,Station C,7,9,2,1
+B,D,Station B,Station D,2,6,4,1
+C,D,Station C,Station D,6,4,2,1
+D,G,Station D,Station G,9,0,2,1
+D,F,Station D,Station F,1,5,4,1
+D,E,Station D,Station E,12,7,3,1
+D,H,Station D,Station H,6,1,2,1
+E,F,Station E,Station F,9,2,3,1
+F,A,Station F,Station A,2,0,3,1
+G,C,Station G,Station C,15,2,4,1
+G,E,Station G,Station E,2,8,4,1
+G,H,Station G,Station H,10,3,2,1
+H,B,Station H,Station B,10,5,3,1
+H,G,Station H,Station G,3,6,3,1

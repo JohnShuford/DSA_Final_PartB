@@ -1,0 +1,9 @@
+Node,Location,Connections
+A,Station 1,"B, C"
+B,Station 2,"C, D"
+C,Station 3,D
+D,Station 4,"G, F, E, H"
+E,Station 5,F
+F,Station 6,A
+G,Station 7,"C, E, H"
+H,Station 8,"B, H"
